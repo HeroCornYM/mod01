@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fmltutor",
+  "name": "FMLTutor",
+  "description": "FMLTutor mod make test.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["hero"],
+  "credits": "Just for test.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
